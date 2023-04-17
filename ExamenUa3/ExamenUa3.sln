@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenUa3", "ExamenUa3.csproj", "{0B31C288-B953-40CB-97B9-530B5115B6FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B31C288-B953-40CB-97B9-530B5115B6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B31C288-B953-40CB-97B9-530B5115B6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B31C288-B953-40CB-97B9-530B5115B6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B31C288-B953-40CB-97B9-530B5115B6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A31699B2-6209-4783-ACBC-672BA75D4A7D}
+	EndGlobalSection
+EndGlobal
